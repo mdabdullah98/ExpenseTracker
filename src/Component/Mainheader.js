@@ -4,7 +4,6 @@ import { Outlet } from "react-router-dom";
 const Mainheader = () => {
   return (
     <>
-      hi this is test
       <Header />
       <Outlet />
     </>
